@@ -1,0 +1,45 @@
+C:\Skola\PersonalRegister\bin\Debug\net6.0\PersonalRegister.exe
+C:\Skola\PersonalRegister\bin\Debug\net6.0\PersonalRegister.deps.json
+C:\Skola\PersonalRegister\bin\Debug\net6.0\PersonalRegister.runtimeconfig.json
+C:\Skola\PersonalRegister\bin\Debug\net6.0\PersonalRegister.dll
+C:\Skola\PersonalRegister\bin\Debug\net6.0\ref\PersonalRegister.dll
+C:\Skola\PersonalRegister\bin\Debug\net6.0\PersonalRegister.pdb
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.csproj.AssemblyReference.cache
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.AssemblyInfoInputs.cache
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.AssemblyInfo.cs
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.csproj.CoreCompileInputs.cache
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.dll
+C:\Skola\PersonalRegister\obj\Debug\net6.0\ref\PersonalRegister.dll
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.pdb
+C:\Skola\PersonalRegister\obj\Debug\net6.0\PersonalRegister.genruntimeconfig.cache
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.exe
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.deps.json
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.runtimeconfig.json
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.dll
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.pdb
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.csproj.AssemblyReference.cache
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.AssemblyInfoInputs.cache
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.AssemblyInfo.cs
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.csproj.CoreCompileInputs.cache
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.dll
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\refint\PersonalRegister.dll
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.pdb
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.genruntimeconfig.cache
+C:\Users\46722\Downloads\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\ref\PersonalRegister.dll
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.exe
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.deps.json
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.runtimeconfig.json
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.dll
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\ref\PersonalRegister.dll
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\bin\Debug\net6.0\PersonalRegister.pdb
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.csproj.AssemblyReference.cache
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.AssemblyInfoInputs.cache
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.AssemblyInfo.cs
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.csproj.CoreCompileInputs.cache
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.dll
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\ref\PersonalRegister.dll
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.pdb
+C:\Skola\project2.3\project2.1-main\project2.1-main\PersonalRegister - kopia\obj\Debug\net6.0\PersonalRegister.genruntimeconfig.cache

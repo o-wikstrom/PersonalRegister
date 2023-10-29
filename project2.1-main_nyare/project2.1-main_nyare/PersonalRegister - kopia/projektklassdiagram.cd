@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PersonalRegister.ArbetareAbs">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAEAASAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>ArbetareAbs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalRegister.ArbetsMyror">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAEAACAgAAAAAAAAAAIAAAAAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>ArbetsMyror.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PersonalRegister.OverigaArbetare">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAEAACAgAAAAAAAAAAIAAAAAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>OverigaArbetare.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PersonalRegister.Program">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalRegister.SearchArbetare">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>SearchArbetare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.Generic.Comparer&lt;T&gt;" Collapsed="true">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="PersonalRegister.IArbetare">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IArbetare.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
